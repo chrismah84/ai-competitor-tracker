@@ -1,0 +1,32 @@
+{
+  "websites": {
+    "OpenAI": "https://openai.com/blog",
+    "Google AI": "https://ai.google/discover/",
+    "Microsoft AI": "https://blogs.microsoft.com/ai/",
+    "Anthropic": "https://www.anthropic.com/news"
+  },
+  "tech_news_websites": {
+    "TechCrunch": "https://techcrunch.com/category/artificial-intelligence/",
+    "The Information": "https://www.theinformation.com/",
+    "Ars Technica": "https://arstechnica.com/tag/artificial-intelligence/",
+    "VentureBeat": "https://venturebeat.com/ai/",
+    "Wired": "https://www.wired.com/tag/artificial-intelligence/",
+    "MIT Technology Review": "https://www.technologyreview.com/topic/artificial-intelligence/"
+  },
+  "scraping_settings": {
+    "delay_between_requests": 2,
+    "timeout": 10,
+    "max_content_items": 15,
+    "max_content_length": 800
+  },
+  "ai_keywords": [
+    "artificial intelligence", "machine learning", "AI", "ML", "GPT", "LLM",
+    "neural network", "deep learning", "OpenAI", "ChatGPT", "Anthropic",
+    "Claude", "generative AI", "transformer", "AGI", "automation", "robotics"
+  ],
+  "output_settings": {
+    "save_json": true,
+    "generate_markdown_report": true,
+    "reports_directory": "reports"
+  }
+}
