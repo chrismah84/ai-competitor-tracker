@@ -1,12 +1,25 @@
 # AI News & Competitor Intelligence Report - 2025-09-22
 
-Generated on: 2025-09-22 13:02:27
+Generated on: 2025-09-22 13:38:17
 
 ## AI Competitor Updates
 
+### Google AI
+**Source:** https://blog.google/technology/ai/
+**Scraped:** 2025-09-22T13:37:56.496606
+
+**Key Content:**
+- BreadcrumbTechnologyAIThe work we're doing to make AI helpful for everyone.Follow UsAIAsk a Techspert: What is inference?Learn more about AI and inference from Google experts.Gemini AppFind out what’s new in the Gemini app in September’s Gemini Drop.You can now share your custom Gems in the Gemini app.New Gemini app tools to help students in Europe, the Middle East and AfricaResearchHow AI is helping 38 million farmers with advance weather predictionsGoogle Quantum AI has been selected for the D
+- Find out what’s new in the Gemini app in September’s Gemini Drop.
+- You can now share your custom Gems in the Gemini app.
+- New Gemini app tools to help students in Europe, the Middle East and Africa
+- How AI is helping 38 million farmers with advance weather predictions
+
+---
+
 ### Microsoft AI
 **Source:** https://blogs.microsoft.com/ai/
-**Scraped:** 2025-09-22T13:02:09.063526
+**Scraped:** 2025-09-22T13:37:58.957356
 
 **Key Content:**
 - Tag:HealthFrom Signal blog: How AI is quietly rewriting the rules of modern medicine
@@ -19,7 +32,7 @@ Generated on: 2025-09-22 13:02:27
 
 ### Anthropic
 **Source:** https://www.anthropic.com/news
-**Scraped:** 2025-09-22T13:02:11.448393
+**Scraped:** 2025-09-22T13:38:01.346481
 
 **Key Content:**
 - NewsroomSocietal ImpactsAnthropic Economic Index report: Uneven geographic and enterprise AI adoptionSep 15, 2025PolicyThoughts on America’s AI Action PlanJul 23, 2025AnnouncementsAnthropic raises $13B Series F at $183B post-money valuationSep 02, 2025AnnouncementsClaude Opus 4.1Our most powerful model for handling complex agent and coding tasksAug 05, 2025Follow AnthropicAnthropic on XLinkedInPress inquiriespress@anthropic.comNon-media inquiriessupport@anthropic.comMedia assetsDownload press ki
@@ -34,7 +47,7 @@ Generated on: 2025-09-22 13:02:27
 
 ### TechCrunch
 **Source:** https://techcrunch.com/category/artificial-intelligence/
-**Scraped:** 2025-09-22T13:02:14.344550
+**Scraped:** 2025-09-22T13:38:03.485264
 
 No AI-related articles found.
 
@@ -42,7 +55,7 @@ No AI-related articles found.
 
 ### Ars Technica
 **Source:** https://arstechnica.com/tag/artificial-intelligence/
-**Scraped:** 2025-09-22T13:02:18.920190
+**Scraped:** 2025-09-22T13:38:08.441455
 
 **Recent AI Articles:**
 - [DeepMind AI safety report explores the perils of “misaligned” AI](https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/)
@@ -60,7 +73,7 @@ No AI-related articles found.
 
 ### VentureBeat
 **Source:** https://venturebeat.com/ai/
-**Scraped:** 2025-09-22T13:02:21.290808
+**Scraped:** 2025-09-22T13:38:10.714222
 
 **Recent AI Articles:**
 - [China's Alibaba challenges U.S. tech giants with open source Qwen3-Omni AI model accepting text, audio, image and video](https://venturebeat.com/ai/chinas-alibaba-challenges-u-s-tech-giants-with-open-source-qwen3-omni-ai)
@@ -78,7 +91,7 @@ No AI-related articles found.
 
 ### Wired
 **Source:** https://www.wired.com/tag/artificial-intelligence/
-**Scraped:** 2025-09-22T13:02:23.413327
+**Scraped:** 2025-09-22T13:38:12.935240
 
 **Recent AI Articles:**
 - Distillation Can Make AI Models Smaller and Cheaper
@@ -96,7 +109,7 @@ No AI-related articles found.
 
 ### MIT Technology Review
 **Source:** https://www.technologyreview.com/topic/artificial-intelligence/
-**Scraped:** 2025-09-22T13:02:25.516288
+**Scraped:** 2025-09-22T13:38:15.042893
 
 No AI-related articles found.
 

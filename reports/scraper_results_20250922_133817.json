@@ -1,0 +1,261 @@
+[
+  {
+    "company": "Google AI",
+    "url": "https://blog.google/technology/ai/",
+    "scraped_at": "2025-09-22T13:37:56.496606",
+    "title": "Official Google AI news and updates | Google Blog",
+    "content": [
+      "BreadcrumbTechnologyAIThe work we're doing to make AI helpful for everyone.Follow UsAIAsk a Techspert: What is inference?Learn more about AI and inference from Google experts.Gemini AppFind out what\u2019s new in the Gemini app in September\u2019s Gemini Drop.You can now share your custom Gems in the Gemini app.New Gemini app tools to help students in Europe, the Middle East and AfricaResearchHow AI is helping 38 million farmers with advance weather predictionsGoogle Quantum AI has been selected for the D",
+      "Find out what\u2019s new in the Gemini app in September\u2019s Gemini Drop.",
+      "You can now share your custom Gems in the Gemini app.",
+      "New Gemini app tools to help students in Europe, the Middle East and Africa",
+      "How AI is helping 38 million farmers with advance weather predictions",
+      "Google Quantum AI has been selected for the DARPA Quantum Benchmarking Initiative.",
+      "Check out the first images of wildfires detected by FireSat",
+      "Meet your new AI coding teammate: Gemini CLI GitHub Actions",
+      "New in Gemini Code Assist: Agent Mode and IDE enhancements"
+    ]
+  },
+  {
+    "company": "Microsoft AI",
+    "url": "https://blogs.microsoft.com/ai/",
+    "scraped_at": "2025-09-22T13:37:58.957356",
+    "title": "AI - Source",
+    "content": [
+      "Tag:HealthFrom Signal blog: How\u00a0AI is quietly rewriting the rules of modern medicine",
+      "Tag:AICould AI help save one of the Pacific Northwest\u2019s most vulnerable animals?",
+      "Tag:AIMicrosoft\u2019s analog optical computer cracks two practical problems and shows AI promise",
+      "Tag:HealthRibera uses AI technology to help patients and doctors",
+      "Tag:Work & LifeHow AI can help save hidden \u2018biological hotspots\u2019 the planet needs",
+      "Tag:AIMicrosoft Build 2025: The age of AI agents and building the open agentic web",
+      "Tag:AIThe value of AI: How Microsoft\u2019s customers and partners are reinventing how they do business today",
+      "Tag:SustainabilityAI transformations can support sustainability and prosperity",
+      "From Signal blog: How\u00a0AI is quietly rewriting the rules of modern medicine",
+      "Could AI help save one of the Pacific Northwest\u2019s most vulnerable animals?",
+      "Microsoft\u2019s analog optical computer cracks two practical problems and shows AI promise",
+      "Ribera uses AI technology to help patients and doctors",
+      "How AI can help save hidden \u2018biological hotspots\u2019 the planet needs",
+      "Microsoft Build 2025: The age of AI agents and building the open agentic web",
+      "The value of AI: How Microsoft\u2019s customers and partners are reinventing how they do business today",
+      "AI transformations can support sustainability and prosperity",
+      "Copilot for all: Introducing Microsoft 365 Copilot Chat"
+    ]
+  },
+  {
+    "company": "Anthropic",
+    "url": "https://www.anthropic.com/news",
+    "scraped_at": "2025-09-22T13:38:01.346481",
+    "title": "Newsroom \\ Anthropic",
+    "content": [
+      "NewsroomSocietal ImpactsAnthropic Economic Index report: Uneven geographic and enterprise AI adoptionSep 15, 2025PolicyThoughts on America\u2019s AI Action PlanJul 23, 2025AnnouncementsAnthropic raises $13B Series F at $183B post-money valuationSep 02, 2025AnnouncementsClaude Opus 4.1Our most powerful model for handling complex agent and coding tasksAug 05, 2025Follow AnthropicAnthropic on XLinkedInPress inquiriespress@anthropic.comNon-media inquiriessupport@anthropic.comMedia assetsDownload press ki",
+      "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
+      "Anthropic raises $13B Series F at $183B post-money valuation",
+      "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
+      "Anthropic Economic Index: Tracking AI\u2019s role in the US and global economy",
+      "Strengthening our safeguards through collaboration with US CAISI and UK AISI"
+    ]
+  },
+  {
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "scraped_at": "2025-09-22T13:38:03.485264",
+    "title": "AI News & Artificial Intelligence | TechCrunch",
+    "articles": []
+  },
+  {
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tag/artificial-intelligence/",
+    "scraped_at": "2025-09-22T13:38:08.441455",
+    "title": "Tag: Artificial Intelligence - Ars Technica",
+    "articles": [
+      {
+        "title": "DeepMind AI safety report explores the perils of \u201cmisaligned\u201d AI",
+        "link": "https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/",
+        "extracted_at": "2025-09-22T13:38:08.448645"
+      },
+      {
+        "title": "Google announces massive expansion of AI features in Chrome",
+        "link": "https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/",
+        "extracted_at": "2025-09-22T13:38:08.448667"
+      },
+      {
+        "title": "Gemini AI solves coding problem that stumped 139 human teams at ICPC World Finals",
+        "link": "https://arstechnica.com/google/2025/09/google-gemini-earns-gold-medal-in-icpc-world-finals-coding-competition/",
+        "extracted_at": "2025-09-22T13:38:08.448679"
+      },
+      {
+        "title": "Google releases VaultGemma, its first privacy-preserving LLM",
+        "link": "https://arstechnica.com/ai/2025/09/google-releases-vaultgemma-its-first-privacy-preserving-llm/",
+        "extracted_at": "2025-09-22T13:38:08.448688"
+      },
+      {
+        "title": "OpenAI and Microsoft sign preliminary deal to revise partnership terms",
+        "link": "https://arstechnica.com/ai/2025/09/openai-and-microsoft-sign-preliminary-deal-to-revise-partnership-terms/",
+        "extracted_at": "2025-09-22T13:38:08.448696"
+      },
+      {
+        "title": "One of Google\u2019s new Pixel 10 AI features has already been removed",
+        "link": "https://arstechnica.com/google/2025/09/google-pulls-daily-hub-ai-feature-from-pixel-10-phones/",
+        "extracted_at": "2025-09-22T13:38:08.448705"
+      },
+      {
+        "title": "Spotify peeved after 10,000 users sold data to build AI tools",
+        "link": "https://arstechnica.com/tech-policy/2025/09/spotify-peeved-after-10000-users-sold-data-to-build-ai-tools/",
+        "extracted_at": "2025-09-22T13:38:08.448713"
+      },
+      {
+        "title": "Judge: Anthropic\u2019s $1.5B settlement is being shoved \u201cdown the throat of authors\u201d",
+        "link": "https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/",
+        "extracted_at": "2025-09-22T13:38:08.448722"
+      },
+      {
+        "title": "\u201cFirst of its kind\u201d AI settlement: Anthropic to pay authors $1.5 billion",
+        "link": "https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/",
+        "extracted_at": "2025-09-22T13:38:08.448736"
+      },
+      {
+        "title": "Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo",
+        "link": "https://arstechnica.com/tech-policy/2025/09/warner-bros-sues-midjourney-to-stop-ai-knockoffs-of-batman-scooby-doo/",
+        "extracted_at": "2025-09-22T13:38:08.448745"
+      },
+      {
+        "title": "Google improves Gemini AI image editing with \u201cnano banana\u201d model",
+        "link": "https://arstechnica.com/ai/2025/08/google-improves-gemini-ai-image-editing-with-nano-banana-model/",
+        "extracted_at": "2025-09-22T13:38:08.448753"
+      },
+      {
+        "title": "YouTube secretly tested AI video enhancement without notifying creators",
+        "link": "https://arstechnica.com/google/2025/08/youtube-secretly-tested-ai-video-enhancement-without-notifying-creators/",
+        "extracted_at": "2025-09-22T13:38:08.448760"
+      },
+      {
+        "title": "Google releases pint-size Gemma open AI model",
+        "link": "https://arstechnica.com/google/2025/08/google-releases-pint-size-gemma-open-ai-model/",
+        "extracted_at": "2025-09-22T13:38:08.448785"
+      }
+    ]
+  },
+  {
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/ai/",
+    "scraped_at": "2025-09-22T13:38:10.714222",
+    "title": "VentureBeat | Transformative tech coverage that matters",
+    "articles": [
+      {
+        "title": "China's Alibaba challenges U.S. tech giants with open source Qwen3-Omni AI model accepting text, audio, image and video",
+        "link": "https://venturebeat.com/ai/chinas-alibaba-challenges-u-s-tech-giants-with-open-source-qwen3-omni-ai",
+        "extracted_at": "2025-09-22T13:38:10.716811"
+      },
+      {
+        "title": "Perplexity\u2019s new AI agent wants to replace your email habits for $200 per month",
+        "link": "https://venturebeat.com/ai/perplexitys-new-ai-agent-wants-to-replace-your-email-habits-for-usd200-per",
+        "extracted_at": "2025-09-22T13:38:10.716848"
+      },
+      {
+        "title": "How Brian Eno anticipated the creative dynamics of AI by decades",
+        "link": "https://venturebeat.com/ai/how-brian-eno-anticipated-the-creative-dynamics-of-ai-by-decades",
+        "extracted_at": "2025-09-22T13:38:10.716909"
+      },
+      {
+        "title": "AI sharpens threat detection \u2014 but could it dull human analyst skills?",
+        "link": "https://venturebeat.com/security/ai-sharpens-threat-detection-but-could-it-dull-human-analyst-skills",
+        "extracted_at": "2025-09-22T13:38:10.716927"
+      },
+      {
+        "title": "Moody's cut credit memo prep from 40 hours to 2 minutes with modular AI agents: Here's its agentic AI blueprint",
+        "link": "https://venturebeat.com/ai/moodys-cut-credit-memo-prep-from-40-hours-to-2-minutes-with-modular-ai",
+        "extracted_at": "2025-09-22T13:38:10.716944"
+      },
+      {
+        "title": "WebExplorer trains expert web agents without human-labeled examples",
+        "link": "https://venturebeat.com/ai/webexplorer-trains-expert-web-agents-without-human-labeled-examples",
+        "extracted_at": "2025-09-22T13:38:10.716960"
+      },
+      {
+        "title": "Mistral's updated Magistral Small 1.2 reasoning model can analyze images and fit on a Macbook",
+        "link": "https://venturebeat.com/ai/mistrals-updated-magistral-small-1-2-reasoning-model-can-analyze-images-and",
+        "extracted_at": "2025-09-22T13:38:10.716979"
+      },
+      {
+        "title": "Meta's new small reasoning model shows industry shift toward tiny AI for enterprise applications",
+        "link": "https://venturebeat.com/ai/metas-new-small-reasoning-model-shows-industry-shift-toward-tiny-ai-for",
+        "extracted_at": "2025-09-22T13:38:10.716998"
+      },
+      {
+        "title": "Google and OpenAI\u2019s coding wins at university competition show enterprise AI tools can take on unsolved algorithmic challenges",
+        "link": "https://venturebeat.com/ai/google-and-openais-coding-wins-at-university-competition-show-enterprise-ai",
+        "extracted_at": "2025-09-22T13:38:10.717016"
+      },
+      {
+        "title": "The 'DeepSeek' moment for AI agents is here: meet Alibaba's open source Tongyi DeepResearch Agent",
+        "link": "https://venturebeat.com/ai/the-deepseek-moment-for-ai-agents-is-here-meet-alibabas-open-source-tongyi",
+        "extracted_at": "2025-09-22T13:38:10.717031"
+      }
+    ]
+  },
+  {
+    "source": "Wired",
+    "url": "https://www.wired.com/tag/artificial-intelligence/",
+    "scraped_at": "2025-09-22T13:38:12.935240",
+    "title": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
+    "articles": [
+      {
+        "title": "Distillation Can Make AI Models Smaller and Cheaper",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940171"
+      },
+      {
+        "title": "YouTube Thinks AI Is Its Next Big Bang",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940180"
+      },
+      {
+        "title": "Meta Accused of Torrenting Porn to Advance Its Goal of AI \u2018Superintelligence\u2019",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940189"
+      },
+      {
+        "title": "Move Aside, Chatbots: AI Humanoids Are Here",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940194"
+      },
+      {
+        "title": "AI Psychosis Is Rarely Psychosis at All",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940214"
+      },
+      {
+        "title": "US Tech Giants Race to Spend Billions in UK AI Push",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940226"
+      },
+      {
+        "title": "OpenAI's Teen Safety Features Will Walk a Thin Line",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940231"
+      },
+      {
+        "title": "Matthew Prince Wants AI Companies to Pay for Their Sins",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940237"
+      },
+      {
+        "title": "How AI Is Upending Politics, Tech, the Media, and More",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940242"
+      },
+      {
+        "title": "Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions",
+        "link": null,
+        "extracted_at": "2025-09-22T13:38:12.940250"
+      }
+    ]
+  },
+  {
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "scraped_at": "2025-09-22T13:38:15.042893",
+    "title": "Artificial intelligence | MIT Technology Review",
+    "articles": []
+  }
+]
